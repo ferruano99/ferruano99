@@ -1,10 +1,10 @@
-## Hello! <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="30px">
+## Hello! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
 
 My name is Fernando, I'm actually finishing my Computer Engineering Degree at King Juan Carlos University in Madrid.
 
 ## Technologies
 
-These are some technologies I've learnt over the past few years!
+These are some technologies I've learnt over the past few years! <br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
