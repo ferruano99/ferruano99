@@ -2,6 +2,8 @@
 
 My name is Fernando, I've recently finished my Computer Engineering Degree at King Juan Carlos University in Madrid.
 
+Here, you can have a look at my latest projects I have been making over the last 3 years.
+
 ## Technologies
 
 These are some technologies I've learnt over the past few years! <br />
