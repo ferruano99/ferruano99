@@ -1,6 +1,6 @@
 ## Hello! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
 
-My name is Fernando, I'm actually finishing my Computer Engineering Degree at King Juan Carlos University in Madrid.
+My name is Fernando, I've recently finished my Computer Engineering Degree at King Juan Carlos University in Madrid.
 
 ## Technologies
 
