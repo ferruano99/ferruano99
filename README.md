@@ -1,8 +1,8 @@
 ## Hello! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
 
-My name is Fernando, I've recently finished my Computer Engineering Degree at King Juan Carlos University in Madrid.
+This is my GitHub profile.
 
-Here, you can have a look at my latest projects I have been making over the last 3 years.
+Here, you can have a look at my latest projects I have been making over the last 4 years.
 
 ## Technologies
 
